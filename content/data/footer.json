@@ -1,0 +1,29 @@
+{
+    "logo": {
+        "altText": "Logo light",
+        "type": "ImageBlock"
+    },
+    "text": "",
+    "socialLinks": [],
+    "legalLinks": [
+        {
+            "label": "Terms",
+            "url": "/Termsandconditions",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Privacy",
+            "url": "/privacypolicy",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        }
+    ],
+    "copyrightText": "© Alex Mardle \n",
+    "colors": "bg-dark-fg-light",
+    "type": "Footer"
+}
